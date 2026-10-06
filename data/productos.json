@@ -1,0 +1,66 @@
+[
+    {
+        "nombre": "Sudadera Oversize",
+        "precio": 25,
+        "talla": "M",
+        "color": "Negro",
+        "imagen": "img/producto1.jpg",
+        "descripcion": "Sudadera cómoda con diseño urbano y moderno."
+    },
+    {
+        "nombre": "Camiseta Essential",
+        "precio": 15,
+        "talla": "S",
+        "color": "Blanco",
+        "imagen": "img/producto2.jpg",
+        "descripcion": "Camiseta básica ideal para combinar diferentes estilos."
+    },
+    {
+        "nombre": "Pantalón Cargo",
+        "precio": 30,
+        "talla": "L",
+        "color": "Azul oscuro",
+        "imagen": "img/producto3.jpg",
+        "descripcion": "Pantalón cargo inspirado en la moda urbana."
+    },
+    {
+        "nombre": "Chaqueta Urban",
+        "precio": 40,
+        "talla": "M",
+        "color": "Negro",
+        "imagen": "img/producto4.jpg",
+        "descripcion": "Chaqueta moderna para complementar tu estilo."
+    },
+    {
+        "nombre": "Gorra Street",
+        "precio": 12,
+        "talla": "Única",
+        "color": "Azul oscuro",
+        "imagen": "img/producto5.jpg",
+        "descripcion": "Gorra urbana sencilla y fácil de combinar."
+    },
+    {
+        "nombre": "Hoodie Classic",
+        "precio": 28,
+        "talla": "L",
+        "color": "Negro",
+        "imagen": "img/producto6.jpg",
+        "descripcion": "Hoodie clásico para un estilo cómodo y moderno."
+    },
+    {
+        "nombre": "Pantalón Street",
+        "precio": 32,
+        "talla": "M",
+        "color": "Negro",
+        "imagen": "img/producto7.jpg",
+        "descripcion": "Pantalón de estilo urbano para cualquier ocasión."
+    },
+    {
+        "nombre": "Camiseta Graphic",
+        "precio": 18,
+        "talla": "M",
+        "color": "Blanco",
+        "imagen": "img/producto8.jpg",
+        "descripcion": "Camiseta con diseño gráfico y estilo juvenil."
+    }
+]
